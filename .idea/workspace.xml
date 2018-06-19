@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdb1fdf7-59f0-4e3f-a37b-a23b76948d97" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/demo-openshift.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/demoopenshift/Example.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demoopenshift/Example.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/demoopenshift/Example.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +28,11 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demoopenshift/Example.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -323,11 +320,11 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demoopenshift/Example.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
           </folding>
         </state>
       </provider>

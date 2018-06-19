@@ -11,7 +11,7 @@ public class Example {
 
     @RequestMapping("/")
     String home() {
-        return "Hello from Spring boot!";
+        return "ADM UK Dev Practices Test !!!!";
     }
 
     public static void main(String[] args) throws Exception {
